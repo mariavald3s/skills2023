@@ -1,0 +1,23 @@
+Remember to:
+- Change Favicon
+- Change title for site
+- Change name
+- Add a referal form
+- Change all background images
+- Change out all descriptions
+- Fix the review cards
+- Delete test reviews
+- Change logo at top
+- responsive design
+- add colour values 
+
+purple: #5E32BA
+light orange: #E9804D
+orange: #EB6123
+dark orange: #ce4d16
+black: #18181A
+lighter black: #252528
+light green: #BFDA7A
+green: #96C457
+white: #E6E6E6
+dark white: #dbdbdb
